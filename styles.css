@@ -1,0 +1,24 @@
+.todo-list {
+  list-style-type: none;
+}
+
+a {
+  color: purple;
+  text-decoration: none;
+}
+
+a:visited {
+  color: pink;
+}
+
+a:hover {
+  color: yellow;
+}
+
+a:focus {
+  outline: red;
+}
+
+a:active {
+  color: green;
+}
